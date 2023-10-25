@@ -7,7 +7,7 @@ def encode(password):
         encoded_password += str(num)
     return encoded_password
 
-
+# comment
 def main():
     while True:
         print("Menu\n-------------")
